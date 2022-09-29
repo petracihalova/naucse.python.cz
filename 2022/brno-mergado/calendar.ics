@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTEND:20220914T180000Z
+DTSTART:20220914T160000Z
+SUMMARY:Instalace
+UID:https://naucse.python.cz/2022/brno-mergado/sessions/install/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20220921T180000Z
+DTSTART:20220921T160000Z
+SUMMARY:První krůčky
+UID:https://naucse.python.cz/2022/brno-mergado/sessions/hello/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20221012T180000Z
+DTSTART:20221012T160000Z
+SUMMARY:Git a Github
+UID:https://naucse.python.cz/2022/brno-mergado/sessions/collaboration/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20221005T180000Z
+DTSTART:20221005T160000Z
+SUMMARY:Cykly a řetězce
+UID:https://naucse.python.cz/2022/brno-mergado/sessions/for/
+END:VEVENT
+END:VCALENDAR

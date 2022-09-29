@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTEND:20221003T180000Z
+DTSTART:20221003T160000Z
+SUMMARY:Explorativní datová analýza a více zdrojů / proměnných
+UID:https://naucse.python.cz/2022/pydata-praha-podzim/sessions/eda4/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20220919T180000Z
+DTSTART:20220919T160000Z
+SUMMARY:Datové typy a základy vizualizace v pandas
+UID:https://naucse.python.cz/2022/pydata-praha-podzim/sessions/eda2/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20220926T180000Z
+DTSTART:20220926T160000Z
+SUMMARY:Explorativní analýza a statistika jedné proměnné
+UID:https://naucse.python.cz/2022/pydata-praha-podzim/sessions/eda3/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20221224T190000Z
+DTSTART:20221224T170000Z
+SUMMARY:Svátky klidu a konce kurzu
+UID:https://naucse.python.cz/2022/pydata-praha-podzim/sessions/konec/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20220912T180000Z
+DTSTART:20220912T160000Z
+SUMMARY:Představení\, Jupyter notebook\, základy pandas
+UID:https://naucse.python.cz/2022/pydata-praha-podzim/sessions/eda1/
+END:VEVENT
+END:VCALENDAR
